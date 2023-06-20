@@ -45,7 +45,7 @@ Just add the following line to the end of the **$HOME/.bashrc** file
 ```bash
 alias vlrgg=python3 {path_to_cloned_repo}/vlrgg.py
 ```
->Note: Replace *{path_to_cloned_repo}* with the correct path to the clone repo
+>Note: Replace *{path_to_cloned_repo}* with the correct path to the cloned repo
 
 This way, all you need to do to run the script is type **vlrgg** with the desired flags
 
@@ -74,4 +74,4 @@ Add or replace (if you added the previous alias) the following line to the end o
 ```bash
 alias vlrgg=poetry run python {path_to_cloned_repo}/vlrgg.py
 ```
->Note: Replace *{path_to_cloned_repo}* with the correct path to the clone repo
+>Note: Replace *{path_to_cloned_repo}* with the correct path to the cloned repo
