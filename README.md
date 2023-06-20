@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/license-MIT-blue.svg)](https://spdx.org/licenses/MIT.html)
 
-An Unofficial script to retrieve results and upcoming matches from [vlr.gg](https://www.vlr.gg/), a site for Valorant Esports match and news coverage.
+An Unofficial script to retrieve results and upcoming matches from [vlr.gg](https://www.vlr.gg/), a Valorant Esports match and news coverage site.
 
 This script could not have been made without the use of the [Unofficial REST API for vlr.gg](https://github.com/axsddlr/vlrggapi) made by [Andre Saddler](https://github.com/axsddlr/)
 
@@ -31,7 +31,7 @@ Paper Rex vs EDward Gaming
 2 - 1
 More info: https://www.vlr.gg/220452/paper-rex-vs-edward-gaming-champions-tour-2023-masters-tokyo-lr2
 ```
-## Instalation
+## Installation
 ```bash
 git clone https://github.com/ruitcatarino/vlrgg
 cd vlrgg
@@ -47,7 +47,7 @@ alias vlrgg=python3 {path_to_cloned_repo}/vlrgg.py
 ```
 >Note: Replace *{path_to_cloned_repo}* with the correct path to the clone repo
 
-This way, all you need to do to run the script is type **vlrgg** with the deasired flags
+This way, all you need to do to run the script is type **vlrgg** with the desired flags
 
 #### Example
 ```bash
