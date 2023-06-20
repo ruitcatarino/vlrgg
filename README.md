@@ -1,4 +1,7 @@
 # vlrgg
+
+[![License: GPL v3](https://img.shields.io/badge/license-MIT-blue.svg)](https://spdx.org/licenses/MIT.html)
+
 An Unofficial script to retrieve results and upcoming matches from [vlr.gg](https://www.vlr.gg/), a site for Valorant Esports match and news coverage.
 
 This script could not have been made without the use of the [Unofficial REST API for vlr.gg](https://github.com/axsddlr/vlrggapi) made by [Andre Saddler](https://github.com/axsddlr/)
