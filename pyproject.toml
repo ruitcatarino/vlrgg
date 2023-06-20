@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "vlrgg"
-version = "0.1.0"
+version = "1.0.0"
 description = "An Unofficial script to retrieve results and upcoming matches from vlr.gg, a site for Valorant Esports match and news coverage"
 authors = ["Rui Catarino"]
 license = "MIT"
