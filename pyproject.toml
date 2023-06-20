@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "vlrgg"
+version = "0.1.0"
+description = "An Unofficial script to retrieve results and upcoming matches from vlr.gg, a site for Valorant Esports match and news coverage"
+authors = ["Rui Catarino"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
