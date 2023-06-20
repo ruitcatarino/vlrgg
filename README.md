@@ -1,4 +1,4 @@
-# vlrgg
+# VLRgg
 
 [![License: GPL v3](https://img.shields.io/badge/license-MIT-blue.svg)](https://spdx.org/licenses/MIT.html)
 
@@ -31,7 +31,7 @@ Paper Rex vs EDward Gaming
 2 - 1
 More info: https://www.vlr.gg/220452/paper-rex-vs-edward-gaming-champions-tour-2023-masters-tokyo-lr2
 ```
-## Instalaion
+## Instalation
 ```bash
 git clone https://github.com/ruitcatarino/vlrgg
 cd vlrgg
@@ -60,3 +60,18 @@ Paper Rex vs EDward Gaming
 2 - 1
 More info: https://www.vlr.gg/220452/paper-rex-vs-edward-gaming-champions-tour-2023-masters-tokyo-lr2
 ```
+
+## Using Poetry
+If you are using Poetry you should know what you are doing, but just in case you forget something, here is a reminder:
+
+### Usage
+```bash
+poetry run python vlrgg.py
+```
+### To use with alias
+Add or replace (if you added the previous alias) the following line to the end of the **$HOME/.bashrc** file
+
+```bash
+alias vlrgg=poetry run python {path_to_cloned_repo}/vlrgg.py
+```
+>Note: Replace *{path_to_cloned_repo}* with the correct path to the clone repo
