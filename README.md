@@ -68,10 +68,3 @@ If you are using Poetry you should know what you are doing, but just in case you
 ```bash
 poetry run python vlrgg.py
 ```
-### To use with alias
-Add or replace (if you added the previous alias) the following line to the end of the **$HOME/.bashrc** file
-
-```bash
-alias vlrgg=poetry run python {path_to_cloned_repo}/vlrgg.py
-```
->Note: Replace *{path_to_cloned_repo}* with the correct path to the cloned repo
