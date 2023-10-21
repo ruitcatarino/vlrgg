@@ -1,6 +1,6 @@
 # VLRgg
 
-[![License: GPL v3](https://img.shields.io/badge/license-MIT-blue.svg)](https://spdx.org/licenses/MIT.html)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://spdx.org/licenses/MIT.html)
 
 An Unofficial script to retrieve results and upcoming matches from [vlr.gg](https://www.vlr.gg/), a Valorant Esports match and news coverage site.
 
