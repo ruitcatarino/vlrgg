@@ -6,8 +6,6 @@ An Unofficial script to retrieve results and upcoming matches from [vlr.gg](http
 
 This script could not have been made without the use of the [Unofficial REST API for vlr.gg](https://github.com/axsddlr/vlrggapi) made by [Andre Saddler](https://github.com/axsddlr/)
 
-Built by [Rui Catarino](https://github.com/ruitcatarino)
-
 ## Usage
 
 ```bash
